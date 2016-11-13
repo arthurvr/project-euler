@@ -6,11 +6,7 @@ def digits(n):
 def digits_factorial(n):
 	return sum(map(factorial, digits(n)))
 
-def main():
-	# The upper bound here is 9!*7 (see https://en.wikipedia.org/wiki/Factorion)
-	solution = sum(filter(lambda x: digits_factorial(x) == x, range(10, factorial(7)*9)))
+# The upper bound here is 9!*7 (see https://en.wikipedia.org/wiki/Factorion)
+solution = sum(filter(lambda x: digits_factorial(x) == x, range(10, factorial(7)*9)))
 
-	print(solution)
-
-if __name__ == "__main__":
-	main()
+print(solution)

@@ -7,11 +7,7 @@ def sides(perimeter):
 				possibilities.append((a, b, c))
 	return possibilities
 
-def main():
-	results = []
-	for p in range(1, 1001):
-		results.append(sides(p))
-	print(results.index(max(results, key=len)) + 1)
-
-if __name__ == "__main__":
-	main()
+results = []
+for p in range(1, 1001):
+	results.append(sides(p))
+print(results.index(max(results, key=len)) + 1)
