@@ -31,6 +31,7 @@ Solved problems:
 * [Problem 39](/39/) - Integer right triangles (solved using Python)
 * [Problem 48](/48/) - Self powers (solved using Haskell)
 * [Problem 53](/53/) - Combinatoric selections (solved using Python)
+* [Problem 112](/112/) - Bouncy numbers (solved using Python)
 
 
 ## License
