@@ -32,6 +32,7 @@ Solved problems:
 * [Problem 48](/48/) - Self powers (solved using Haskell)
 * [Problem 53](/53/) - Combinatoric selections (solved using Python)
 * [Problem 112](/112/) - Bouncy numbers (solved using Python)
+* [Problem 178](/179/) - Step Numbers (solved using D)
 
 
 ## License
