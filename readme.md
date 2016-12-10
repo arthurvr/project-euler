@@ -19,6 +19,7 @@ Solved problems:
 * [Problem 14](/14/) - Longest Collatz sequence (solved using C++)
 * [Problem 15](/15/) - Lattice paths (solved using Haskell)
 * [Problem 16](/16/) - Power digit sum (solved using Haskell)
+* [Problem 18](/18/) - Maximum path sum I (solved using PHP)
 * [Problem 20](/20/) - Factorial digit sum (solved using Haskell)
 * [Problem 21](/21/) - Amicable numbers (solved using Ruby)
 * [Problem 22](/22/) - Names scores (solved using Python)
