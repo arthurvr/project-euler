@@ -20,6 +20,7 @@ Solved problems:
 * [Problem 15](/15/) - Lattice paths *(solved using Haskell)*
 * [Problem 16](/16/) - Power digit sum *(solved using Haskell)*
 * [Problem 18](/18/) - Maximum path sum I *(solved using PHP)*
+* [Problem 19](/19/) - Counting Sundays *(solved using D)*
 * [Problem 20](/20/) - Factorial digit sum *(solved using Haskell)*
 * [Problem 21](/21/) - Amicable numbers *(solved using Ruby)*
 * [Problem 22](/22/) - Names scores *(solved using Python)*
