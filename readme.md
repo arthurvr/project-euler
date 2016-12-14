@@ -31,6 +31,7 @@ Solved problems:
 * [Problem 34](/34/) - Digit factorials *(solved using Python)*
 * [Problem 36](/36/) - Double-base palindromes *(solved using Haskell)*
 * [Problem 39](/39/) - Integer right triangles *(solved using Python)*
+* [Problem 45](/45/) - Triangular, pentagonal, and hexagonal *(solved using Haskell)*
 * [Problem 48](/48/) - Self powers *(solved using Haskell)*
 * [Problem 53](/53/) - Combinatoric selections *(solved using Python)*
 * [Problem 67](/67/) - Maximum path sum II *(solved using PHP)*
