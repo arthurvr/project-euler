@@ -12,7 +12,7 @@
 
 >> **Hexagonal Numbers**: Hn = n(2n−1)
 
->> 1, 6, 45, 28, 45, ...
+>>> 1, 6, 45, 28, 45, ...
 
 > It can be verified that T285 = P165 = H143 = 40755.
 
