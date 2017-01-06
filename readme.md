@@ -36,7 +36,7 @@ Solved problems:
 * [Problem 53](/53/) - Combinatoric selections *(solved using Python)*
 * [Problem 67](/67/) - Maximum path sum II *(solved using PHP)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
-* [Problem 92](/92/) - Square digit chains *(solved using Ruby)*
+* [Problem 92](/92/) - Square digit chains *(solved using C)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
 * [Problem 178](/179/) - Step Numbers *(solved using D)*
 

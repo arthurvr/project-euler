@@ -16,5 +16,5 @@
 ### Running
 
 ```
-$ ruby euler92.rb
+$ cc euler92.c && ./a.out
 ```
