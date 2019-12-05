@@ -1,4 +1,4 @@
-## [Project Euler - Problem 179](https://projecteuler.net/problem=179)
+## [Project Euler - Problem 178](https://projecteuler.net/problem=178)
 
 > Consider the number 45656.
 
@@ -14,5 +14,5 @@
 ### Running
 
 ```
-$ rdmd euler179.d
+$ rdmd euler178.d
 ```
