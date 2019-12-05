@@ -25,6 +25,7 @@ Solved problems:
 * [Problem 21](/21/) - Amicable numbers *(solved using Ruby)*
 * [Problem 22](/22/) - Names scores *(solved using Python)*
 * [Problem 25](/25/) - 1000-digit Fibonacci number *(solved using Ruby)*
+* [Problem 27](/27/) - Quadratic Primes *(solved using C)*
 * [Problem 28](/28/) - Number spiral diagonals *(solved using C)*
 * [Problem 29](/29/) - Distinct powers *(solved using Ruby)*
 * [Problem 30](/30/) - Digit fifth powers *(solved using Haskell)*
