@@ -42,7 +42,7 @@ Solved problems:
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
-* [Problem 178](/179/) - Step Numbers *(solved using D)*
+* [Problem 178](/178/) - Step Numbers *(solved using D)*
 
 
 ## License
