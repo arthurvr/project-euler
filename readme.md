@@ -35,6 +35,7 @@ Solved problems:
 * [Problem 45](/45/) - Triangular, pentagonal, and hexagonal *(solved using Haskell)*
 * [Problem 48](/48/) - Self powers *(solved using Haskell)*
 * [Problem 53](/53/) - Combinatoric selections *(solved using Python)*
+* [Problem 59](/59/) - XOR decryption *(solved using PHP)*
 * [Problem 67](/67/) - Maximum path sum II *(solved using PHP)*
 * [Problem 71](/71/) - Ordered fractions *(solved using Swift)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
