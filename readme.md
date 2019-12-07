@@ -37,6 +37,7 @@ Solved problems:
 * [Problem 48](/48/) - Self powers *(solved using Haskell)*
 * [Problem 53](/53/) - Combinatoric selections *(solved using Python)*
 * [Problem 59](/59/) - XOR decryption *(solved using PHP)*
+* [Problem 63](/63/) - Powerful digit counts *(solved using Python)*
 * [Problem 67](/67/) - Maximum path sum II *(solved using PHP)*
 * [Problem 71](/71/) - Ordered fractions *(solved using Swift)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
