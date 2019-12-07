@@ -41,6 +41,7 @@ Solved problems:
 * [Problem 71](/71/) - Ordered fractions *(solved using Swift)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
+* [Problem 97](/97/) - Large non-Mersenne prime *(solved using Haskell)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
 * [Problem 178](/178/) - Step Numbers *(solved using D)*
 * [Problem 206](/206/) - Concealed Square *(solved using Python)*
