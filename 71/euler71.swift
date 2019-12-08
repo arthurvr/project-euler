@@ -3,7 +3,7 @@ var d: Int = 1
 
 let limit: Int = 1000000
 
-for (var q = limit; q > 2; q--) {
+for q in stride(from: limit, to: 3, by: -1) {
     let p = (3 * q - 1) / 7
 
     if (p * d > n * q) {
@@ -12,4 +12,4 @@ for (var q = limit; q > 2; q--) {
     }
 }
 
-println("\(n) / \(d)")
+print("\(n)")
