@@ -9,7 +9,7 @@ int main() {
 			int c = 1000 - a - b;
 
 			if (a*a + b*b == c*c) {
-				printf("%d * %d * %d = %d \n", a, b, c, a*b*c);
+				printf("%d\n", a*b*c);
 			}
 		}
 	}
