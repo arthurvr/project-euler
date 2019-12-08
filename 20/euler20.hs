@@ -7,5 +7,4 @@ digits :: Integer -> [Int]
 digits n = map digitToInt (show n)
 
 main = do
-    print . sum . digits $ factorial 10
     print . sum . digits $ factorial 100
