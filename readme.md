@@ -44,6 +44,7 @@ Solved problems:
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
 * [Problem 97](/97/) - Large non-Mersenne prime *(solved using Haskell)*
 * [Problem 99](/99/) - Largest exponential *(solved using Python)*
+* [Problem 102](/102/) - Triangle containment *(solved using Python)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
 * [Problem 178](/178/) - Step Numbers *(solved using D)*
 * [Problem 206](/206/) - Concealed Square *(solved using Python)*
