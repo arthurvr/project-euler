@@ -29,6 +29,7 @@ Solved problems:
 * [Problem 28](/28/) - Number spiral diagonals *(solved using C)*
 * [Problem 29](/29/) - Distinct powers *(solved using Ruby)*
 * [Problem 30](/30/) - Digit fifth powers *(solved using Haskell)*
+* [Problem 31](/31/) - Coin Sums *(solved using Python)*
 * [Problem 34](/34/) - Digit factorials *(solved using Python)*
 * [Problem 36](/36/) - Double-base palindromes *(solved using Haskell)*
 * [Problem 39](/39/) - Integer right triangles *(solved using Python)*
@@ -40,6 +41,7 @@ Solved problems:
 * [Problem 63](/63/) - Powerful digit counts *(solved using Python)*
 * [Problem 67](/67/) - Maximum path sum II *(solved using PHP)*
 * [Problem 71](/71/) - Ordered fractions *(solved using Swift)*
+* [Problem 89](/89/) - Roman Numerals *(solved using Python)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
 * [Problem 97](/97/) - Large non-Mersenne prime *(solved using Haskell)*
