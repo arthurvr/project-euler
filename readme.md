@@ -50,6 +50,7 @@ Solved problems:
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
 * [Problem 178](/178/) - Step Numbers *(solved using D)*
 * [Problem 206](/206/) - Concealed Square *(solved using Python)*
+* [Problem 719](/719/) - Number Splitting *(solved using Python)*
 
 
 ## License
