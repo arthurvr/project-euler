@@ -42,6 +42,7 @@ Solved problems:
 * [Problem 63](/63/) - Powerful digit counts *(solved using Python)*
 * [Problem 67](/67/) - Maximum path sum II *(solved using PHP)*
 * [Problem 71](/71/) - Ordered fractions *(solved using Swift)*
+* [Problem 74](/74/) - Digit Factorial Chains *(solved using Python)*
 * [Problem 89](/89/) - Roman Numerals *(solved using Python)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
