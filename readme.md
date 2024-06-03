@@ -31,6 +31,7 @@ Solved problems:
 * [Problem 30](/30/) - Digit fifth powers *(solved using Haskell)*
 * [Problem 31](/31/) - Coin Sums *(solved using Python)*
 * [Problem 34](/34/) - Digit factorials *(solved using Python)*
+* [Problem 35](/35/) - Circular Primes *(solved using Python)*
 * [Problem 36](/36/) - Double-base palindromes *(solved using Haskell)*
 * [Problem 39](/39/) - Integer right triangles *(solved using Python)*
 * [Problem 45](/45/) - Triangular, pentagonal, and hexagonal *(solved using Haskell)*
