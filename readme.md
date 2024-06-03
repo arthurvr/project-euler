@@ -15,6 +15,7 @@ Solved problems:
 * [Problem 9](/9/) - Special Pythagorean triplet *(solved using C)*
 * [Problem 10](/10/) - Summation of primes *(solved using Ruby)*
 * [Problem 11](/11/) - Largest product in a grid *(solved using JavaScript)*
+* [Problem 12](/12/) - Highly Divisible Triangular Number *(solved using Haskell)*
 * [Problem 13](/13/) - Large sum *(solved using Python)*
 * [Problem 14](/14/) - Longest Collatz sequence *(solved using C++)*
 * [Problem 15](/15/) - Lattice paths *(solved using Haskell)*
