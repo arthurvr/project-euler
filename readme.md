@@ -53,6 +53,7 @@ Solved problems:
 * [Problem 99](/99/) - Largest exponential *(solved using Python)*
 * [Problem 102](/102/) - Triangle containment *(solved using Python)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
+* [Problem 119](/119/) - Digit Power Sum *(solved using Haskell)*
 * [Problem 142](/142/) - Perfect Square Collection *(solved using C++)*
 * [Problem 178](/178/) - Step Numbers *(solved using D)*
 * [Problem 206](/206/) - Concealed Square *(solved using Python)*
