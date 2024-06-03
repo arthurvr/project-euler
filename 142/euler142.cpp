@@ -1,5 +1,4 @@
 #include <iostream>
-#include <bitset>
 #include <cmath>
 
 #define iseven(n) (n % 2 == 0)

@@ -41,6 +41,7 @@ Solved problems:
 * [Problem 59](/59/) - XOR decryption *(solved using PHP)*
 * [Problem 63](/63/) - Powerful digit counts *(solved using Python)*
 * [Problem 67](/67/) - Maximum path sum II *(solved using PHP)*
+* [Problem 69](/69/) - Totient Maximum *(solved using C++)*
 * [Problem 71](/71/) - Ordered fractions *(solved using Swift)*
 * [Problem 74](/74/) - Digit Factorial Chains *(solved using Python)*
 * [Problem 89](/89/) - Roman Numerals *(solved using Python)*
