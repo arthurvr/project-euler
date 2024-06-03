@@ -53,6 +53,7 @@ Solved problems:
 * [Problem 142](/142/) - Perfect Square Collection *(solved using C++)*
 * [Problem 178](/178/) - Step Numbers *(solved using D)*
 * [Problem 206](/206/) - Concealed Square *(solved using Python)*
+* [Problem 318](/318/) - `(prime - k)` factorial *(solved using C++)*
 * [Problem 493](/493/) - Under the Rainbow *(solved without any code)*
 * [Problem 719](/719/) - Number Splitting *(solved using Python)*
 
