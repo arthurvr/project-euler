@@ -55,6 +55,7 @@ Solved problems:
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
 * [Problem 97](/97/) - Large non-Mersenne prime *(solved using Haskell)*
 * [Problem 99](/99/) - Largest exponential *(solved using Python)*
+* [Problem 100](/100/) - Arranged Probability *(solved using Haskell)*
 * [Problem 102](/102/) - Triangle containment *(solved using Python)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
 * [Problem 119](/119/) - Digit Power Sum *(solved using Haskell)*
