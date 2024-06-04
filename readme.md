@@ -42,6 +42,7 @@ Solved problems:
 * [Problem 46](/46/) - Goldbach's other conjecture *(solved using Python)*
 * [Problem 48](/48/) - Self powers *(solved using Haskell)*
 * [Problem 49](/49/) - Prime Permutations *(solved using Haskell)*
+* [Problem 52](/52/) - Permuted Multiples *(solved using Haskell)*
 * [Problem 53](/53/) - Combinatoric selections *(solved using Python)*
 * [Problem 59](/59/) - XOR decryption *(solved using PHP)*
 * [Problem 63](/63/) - Powerful digit counts *(solved using Python)*
