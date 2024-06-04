@@ -32,6 +32,7 @@ Solved problems:
 * [Problem 29](/29/) - Distinct powers *(solved using Ruby)*
 * [Problem 30](/30/) - Digit fifth powers *(solved using Haskell)*
 * [Problem 31](/31/) - Coin Sums *(solved using Python)*
+* [Problem 33](/33/) - Digit Cancelling Fractions *(solved using Haskell)*
 * [Problem 34](/34/) - Digit factorials *(solved using Python)*
 * [Problem 35](/35/) - Circular Primes *(solved using Python)*
 * [Problem 36](/36/) - Double-base palindromes *(solved using Haskell)*
