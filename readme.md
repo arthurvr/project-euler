@@ -59,6 +59,7 @@ Solved problems:
 * [Problem 102](/102/) - Triangle containment *(solved using Python)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
 * [Problem 119](/119/) - Digit Power Sum *(solved using Haskell)*
+* [Problem 123](/123/) - Prime Square Remainders *(solved using Haskell)*
 * [Problem 142](/142/) - Perfect Square Collection *(solved using C++)*
 * [Problem 155](/155/) - Counting Capacitor Circuits *(solved using Haskell)*
 * [Problem 178](/178/) - Step Numbers *(solved using D)*
