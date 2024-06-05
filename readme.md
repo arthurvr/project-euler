@@ -38,6 +38,7 @@ Solved problems:
 * [Problem 36](/36/) - Double-base palindromes *(solved using Haskell)*
 * [Problem 39](/39/) - Integer right triangles *(solved using Python)*
 * [Problem 42](/42/) - Coded Triangle Numbers *(solved using Haskell)*
+* [Problem 44](/42/) - Pentagon Numbers *(solved using C++)*
 * [Problem 45](/45/) - Triangular, pentagonal, and hexagonal *(solved using Haskell)*
 * [Problem 46](/46/) - Goldbach's other conjecture *(solved using Python)*
 * [Problem 48](/48/) - Self powers *(solved using Haskell)*
