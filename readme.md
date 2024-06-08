@@ -62,6 +62,7 @@ Solved problems:
 * [Problem 102](/102/) - Triangle containment *(solved using Python)*
 * [Problem 112](/112/) - Bouncy numbers *(solved using Python)*
 * [Problem 119](/119/) - Digit Power Sum *(solved using Haskell)*
+* [Problem 120](/120/) - Square Remainders *(solved using PHP)*
 * [Problem 123](/123/) - Prime Square Remainders *(solved using Haskell)*
 * [Problem 124](/124/) - Ordered Radicals *(solved using Haskell)*
 * [Problem 142](/142/) - Perfect Square Collection *(solved using C++)*
