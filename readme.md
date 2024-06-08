@@ -52,6 +52,7 @@ Solved problems:
 * [Problem 69](/69/) - Totient Maximum *(solved using C++)*
 * [Problem 71](/71/) - Ordered fractions *(solved using Swift)*
 * [Problem 74](/74/) - Digit Factorial Chains *(solved using Python)*
+* [Problem 75](/74/) - Singular Integer Right Triangles *(solved using Swift)*
 * [Problem 89](/89/) - Roman Numerals *(solved using Python)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
