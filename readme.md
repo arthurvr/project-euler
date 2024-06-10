@@ -68,6 +68,7 @@ Solved problems:
 * [Problem 142](/142/) - Perfect Square Collection *(solved using C++)*
 * [Problem 155](/155/) - Counting Capacitor Circuits *(solved using Haskell)*
 * [Problem 178](/178/) - Step Numbers *(solved using D)*
+* [Problem 179](/179/) - Consecutive positive divisors *(solved using C++)*
 * [Problem 182](/182/) - RSA Encryption *(solved using Haskell)*
 * [Problem 206](/206/) - Concealed Square *(solved using Python)*
 * [Problem 318](/318/) - `(prime - k)` factorial *(solved using C++)*
