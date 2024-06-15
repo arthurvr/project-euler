@@ -37,10 +37,10 @@ public class Euler96 {
 		String st;
 		while ((st = br.readLine()) != null) {
 			if (st.startsWith("Grid")) {	        		
-	        	Sudoku s = new Sudoku(readGrid(br));
-	        	s.solve(0, 0);
-	       		resultSum += s.topLeftCornerNumber();
-	       	}
+				Sudoku s = new Sudoku(readGrid(br));
+				s.solve(0, 0);
+				resultSum += s.topLeftCornerNumber();
+			}
 		}
 	        
 		System.out.println(resultSum);
