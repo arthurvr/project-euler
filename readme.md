@@ -56,6 +56,7 @@ Solved problems:
 * [Problem 89](/89/) - Roman Numerals *(solved using Python)*
 * [Problem 91](/91/) - Right triangles with integer coordinates *(Solved using C++)*
 * [Problem 92](/92/) - Square digit chains *(solved using C)*
+* [Problem 96](/96/) - Su Doku *(solved using Java)*
 * [Problem 97](/97/) - Large non-Mersenne prime *(solved using Haskell)*
 * [Problem 99](/99/) - Largest exponential *(solved using Python)*
 * [Problem 100](/100/) - Arranged Probability *(solved using Haskell)*
